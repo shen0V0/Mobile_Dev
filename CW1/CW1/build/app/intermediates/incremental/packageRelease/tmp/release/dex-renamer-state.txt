@@ -1,0 +1,4 @@
+#Sat Sep 21 23:52:23 EDT 2024
+base.0=C\:\\Users\\ekail\\OneDrive\\Documents\\GitHub\\Mobile_dev\\CW1\\CW1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
